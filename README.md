@@ -10,7 +10,7 @@ Analizá logs de servidor web reales para encontrar patrones, errores y oportuni
 - Archivos .json o .parquet
 
 ## Cómo correr
-```bash
+
 pip install duckdb
 
 # Lo que hace este código:
@@ -26,12 +26,29 @@ con = duckdb.connect()
 
 # DuckDB puede leer JSON o Parquet
 con.execute()
-```
 
-## Decisiones de limpieza
-- **Nulos**: Elimin� filas sin customer_id, product_id o total (campos cr�ticos)
-- **Duplicados**: Elimin� duplicados por order_id, qued�ndome con el m�s reciente
-- **Tipos**: Convert� order_date a datetime, total y quantity a num�rico
+
+## Preguntas
+1. EXPLORACIÓN INICIAL
+→ ¿Cuántos registros? ¿Qué período cubren?
+
+2. ENDPOINTS MÁS USADOS
+→ ¿Qué endpoints reciben más tráfico
+
+3. ANÁLISIS DE ERRORES
+→ ¿Qué endpoints tienen más errores 500
+
+4. PERFORMANCE POR ENDPOINT
+→ ¿Qué endpoints son más lentos?
+
+5. TENDENCIA HORARIA
+→ ¿A qué hora hay más tráfico?
+
+6. WINDOW FUNCTIONS - RANKING
+→ Top 3 requests más lentas por endpoint
+
+7. COMPARACIÓN CON PERÍODO ANTERIOR
+→ ¿Cómo cambia el tráfico día a día?
 
 ## Output
 - `load_logs_access_logs.py`: Consulta de la tabla de access_logs (1000 registros) y respuestas a preguntas.
