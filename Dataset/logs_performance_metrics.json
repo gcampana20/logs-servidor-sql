@@ -1,0 +1,4502 @@
+[
+  {
+    "metric_id": 1,
+    "timestamp": "2026-02-28 06:43:30",
+    "service_id": 2,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 6619,
+    "unit": "count"
+  },
+  {
+    "metric_id": 2,
+    "timestamp": "2024-08-20 10:18:30",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "request_count",
+    "value": 8789,
+    "unit": "count"
+  },
+  {
+    "metric_id": 3,
+    "timestamp": "2026-03-15 01:51:40",
+    "service_id": 2,
+    "server_id": 13,
+    "metric_name": "memory_usage",
+    "value": 72,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 4,
+    "timestamp": "2024-12-28 03:51:07",
+    "service_id": 10,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 16,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 5,
+    "timestamp": "2024-08-18 02:49:58",
+    "service_id": 3,
+    "server_id": 13,
+    "metric_name": "cpu_usage",
+    "value": 88,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 6,
+    "timestamp": "2025-10-04 08:02:13",
+    "service_id": 4,
+    "server_id": 1,
+    "metric_name": "network_out",
+    "value": 7062,
+    "unit": "count"
+  },
+  {
+    "metric_id": 7,
+    "timestamp": "2025-06-30 15:59:37",
+    "service_id": 7,
+    "server_id": 3,
+    "metric_name": "cpu_usage",
+    "value": 50,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 8,
+    "timestamp": "2024-04-15 22:25:09",
+    "service_id": 5,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 4835,
+    "unit": "count"
+  },
+  {
+    "metric_id": 9,
+    "timestamp": "2025-03-30 16:29:28",
+    "service_id": 4,
+    "server_id": 14,
+    "metric_name": "latency_p99",
+    "value": 2288,
+    "unit": "count"
+  },
+  {
+    "metric_id": 10,
+    "timestamp": "2025-09-25 20:18:11",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 5594,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 11,
+    "timestamp": "2025-04-09 09:43:29",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 1115,
+    "unit": "count"
+  },
+  {
+    "metric_id": 12,
+    "timestamp": "2025-08-22 23:59:17",
+    "service_id": 8,
+    "server_id": 7,
+    "metric_name": "disk_io",
+    "value": 7394,
+    "unit": "count"
+  },
+  {
+    "metric_id": 13,
+    "timestamp": "2025-07-22 03:03:23",
+    "service_id": 9,
+    "server_id": 6,
+    "metric_name": "request_count",
+    "value": 3857,
+    "unit": "count"
+  },
+  {
+    "metric_id": 14,
+    "timestamp": "2024-11-06 17:39:17",
+    "service_id": 11,
+    "server_id": 13,
+    "metric_name": "network_in",
+    "value": 1068,
+    "unit": "count"
+  },
+  {
+    "metric_id": 15,
+    "timestamp": "2025-11-26 02:19:55",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "request_count",
+    "value": 1395,
+    "unit": "count"
+  },
+  {
+    "metric_id": 16,
+    "timestamp": "2026-01-16 17:39:43",
+    "service_id": 3,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 2798,
+    "unit": "count"
+  },
+  {
+    "metric_id": 17,
+    "timestamp": "2024-04-06 02:55:54",
+    "service_id": 8,
+    "server_id": 14,
+    "metric_name": "network_out",
+    "value": 989,
+    "unit": "count"
+  },
+  {
+    "metric_id": 18,
+    "timestamp": "2024-05-03 09:39:08",
+    "service_id": 7,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 1500,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 19,
+    "timestamp": "2024-07-27 01:04:23",
+    "service_id": 4,
+    "server_id": 14,
+    "metric_name": "memory_usage",
+    "value": 50,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 20,
+    "timestamp": "2024-02-06 01:30:48",
+    "service_id": 3,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 8598,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 21,
+    "timestamp": "2025-11-24 10:48:48",
+    "service_id": 7,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 1566,
+    "unit": "count"
+  },
+  {
+    "metric_id": 22,
+    "timestamp": "2024-12-23 06:59:24",
+    "service_id": 5,
+    "server_id": 4,
+    "metric_name": "disk_io",
+    "value": 4791,
+    "unit": "count"
+  },
+  {
+    "metric_id": 23,
+    "timestamp": "2024-10-18 08:43:25",
+    "service_id": 5,
+    "server_id": 8,
+    "metric_name": "disk_io",
+    "value": 2460,
+    "unit": "count"
+  },
+  {
+    "metric_id": 24,
+    "timestamp": "2024-12-22 00:14:06",
+    "service_id": 11,
+    "server_id": 9,
+    "metric_name": "error_rate",
+    "value": 2554,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 25,
+    "timestamp": "2025-08-09 20:36:37",
+    "service_id": 7,
+    "server_id": 3,
+    "metric_name": "latency_p99",
+    "value": 6176,
+    "unit": "count"
+  },
+  {
+    "metric_id": 26,
+    "timestamp": "2025-11-23 17:43:56",
+    "service_id": 11,
+    "server_id": 14,
+    "metric_name": "error_rate",
+    "value": 1509,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 27,
+    "timestamp": "2026-03-05 09:58:44",
+    "service_id": 6,
+    "server_id": 1,
+    "metric_name": "cpu_usage",
+    "value": 69,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 28,
+    "timestamp": "2024-03-27 06:28:29",
+    "service_id": 1,
+    "server_id": 9,
+    "metric_name": "disk_io",
+    "value": 648,
+    "unit": "count"
+  },
+  {
+    "metric_id": 29,
+    "timestamp": "2025-01-05 02:54:27",
+    "service_id": 9,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 7351,
+    "unit": "count"
+  },
+  {
+    "metric_id": 30,
+    "timestamp": "2024-10-14 11:43:39",
+    "service_id": 7,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 589,
+    "unit": "count"
+  },
+  {
+    "metric_id": 31,
+    "timestamp": "2024-04-01 06:50:18",
+    "service_id": 4,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 1731,
+    "unit": "count"
+  },
+  {
+    "metric_id": 32,
+    "timestamp": "2024-11-15 06:52:47",
+    "service_id": 3,
+    "server_id": 9,
+    "metric_name": "error_rate",
+    "value": 5206,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 33,
+    "timestamp": "2025-03-12 17:04:53",
+    "service_id": 1,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 4200,
+    "unit": "count"
+  },
+  {
+    "metric_id": 34,
+    "timestamp": "2025-03-14 23:33:40",
+    "service_id": 11,
+    "server_id": 6,
+    "metric_name": "network_out",
+    "value": 6279,
+    "unit": "count"
+  },
+  {
+    "metric_id": 35,
+    "timestamp": "2024-06-07 04:47:16",
+    "service_id": 3,
+    "server_id": 8,
+    "metric_name": "cpu_usage",
+    "value": 38,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 36,
+    "timestamp": "2024-05-23 00:03:26",
+    "service_id": 1,
+    "server_id": 14,
+    "metric_name": "latency_p99",
+    "value": 909,
+    "unit": "count"
+  },
+  {
+    "metric_id": 37,
+    "timestamp": "2025-10-18 21:05:32",
+    "service_id": 12,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 15,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 38,
+    "timestamp": "2025-02-23 06:50:23",
+    "service_id": 10,
+    "server_id": 11,
+    "metric_name": "error_rate",
+    "value": 4601,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 39,
+    "timestamp": "2025-01-03 15:46:49",
+    "service_id": 12,
+    "server_id": 8,
+    "metric_name": "cpu_usage",
+    "value": 73,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 40,
+    "timestamp": "2026-03-17 08:30:16",
+    "service_id": 7,
+    "server_id": 7,
+    "metric_name": "network_in",
+    "value": 9322,
+    "unit": "count"
+  },
+  {
+    "metric_id": 41,
+    "timestamp": "2025-01-01 08:21:47",
+    "service_id": 7,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 6549,
+    "unit": "count"
+  },
+  {
+    "metric_id": 42,
+    "timestamp": "2024-02-15 13:47:06",
+    "service_id": 3,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 3802,
+    "unit": "count"
+  },
+  {
+    "metric_id": 43,
+    "timestamp": "2025-12-15 06:12:10",
+    "service_id": 7,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 8604,
+    "unit": "count"
+  },
+  {
+    "metric_id": 44,
+    "timestamp": "2025-07-24 14:26:05",
+    "service_id": 11,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 8347,
+    "unit": "count"
+  },
+  {
+    "metric_id": 45,
+    "timestamp": "2025-06-16 01:26:33",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 28,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 46,
+    "timestamp": "2024-03-15 10:46:07",
+    "service_id": 3,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 160,
+    "unit": "count"
+  },
+  {
+    "metric_id": 47,
+    "timestamp": "2024-06-22 05:36:16",
+    "service_id": 7,
+    "server_id": 6,
+    "metric_name": "latency_p99",
+    "value": 4142,
+    "unit": "count"
+  },
+  {
+    "metric_id": 48,
+    "timestamp": "2024-11-19 10:05:50",
+    "service_id": 12,
+    "server_id": 15,
+    "metric_name": "disk_io",
+    "value": 7767,
+    "unit": "count"
+  },
+  {
+    "metric_id": 49,
+    "timestamp": "2025-05-04 00:25:46",
+    "service_id": 5,
+    "server_id": 13,
+    "metric_name": "latency_p99",
+    "value": 3079,
+    "unit": "count"
+  },
+  {
+    "metric_id": 50,
+    "timestamp": "2024-09-23 07:50:06",
+    "service_id": 11,
+    "server_id": 13,
+    "metric_name": "network_in",
+    "value": 8728,
+    "unit": "count"
+  },
+  {
+    "metric_id": 51,
+    "timestamp": "2024-01-26 09:57:38",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "network_in",
+    "value": 7632,
+    "unit": "count"
+  },
+  {
+    "metric_id": 52,
+    "timestamp": "2026-02-19 11:36:45",
+    "service_id": 12,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 45,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 53,
+    "timestamp": "2025-12-07 13:08:30",
+    "service_id": 11,
+    "server_id": 14,
+    "metric_name": "network_out",
+    "value": 7796,
+    "unit": "count"
+  },
+  {
+    "metric_id": 54,
+    "timestamp": "2025-12-13 20:07:09",
+    "service_id": 10,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 299,
+    "unit": "count"
+  },
+  {
+    "metric_id": 55,
+    "timestamp": "2026-01-17 02:12:23",
+    "service_id": 11,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 4336,
+    "unit": "count"
+  },
+  {
+    "metric_id": 56,
+    "timestamp": "2025-05-15 01:30:36",
+    "service_id": 1,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 4877,
+    "unit": "count"
+  },
+  {
+    "metric_id": 57,
+    "timestamp": "2024-04-21 11:29:40",
+    "service_id": 11,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 79,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 58,
+    "timestamp": "2024-08-17 02:47:27",
+    "service_id": 5,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 23,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 59,
+    "timestamp": "2025-09-20 15:32:37",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "network_out",
+    "value": 2165,
+    "unit": "count"
+  },
+  {
+    "metric_id": 60,
+    "timestamp": "2025-01-12 01:05:34",
+    "service_id": 10,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 7155,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 61,
+    "timestamp": "2024-02-26 17:47:32",
+    "service_id": 8,
+    "server_id": 13,
+    "metric_name": "memory_usage",
+    "value": 73,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 62,
+    "timestamp": "2025-07-18 06:10:15",
+    "service_id": 12,
+    "server_id": 12,
+    "metric_name": "network_in",
+    "value": 5440,
+    "unit": "count"
+  },
+  {
+    "metric_id": 63,
+    "timestamp": "2024-09-03 23:26:44",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 724,
+    "unit": "count"
+  },
+  {
+    "metric_id": 64,
+    "timestamp": "2025-02-18 22:39:09",
+    "service_id": 6,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 1236,
+    "unit": "count"
+  },
+  {
+    "metric_id": 65,
+    "timestamp": "2025-04-13 12:19:51",
+    "service_id": 10,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 71,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 66,
+    "timestamp": "2025-11-26 23:01:44",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "memory_usage",
+    "value": 22,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 67,
+    "timestamp": "2025-04-18 11:56:43",
+    "service_id": 8,
+    "server_id": 4,
+    "metric_name": "error_rate",
+    "value": 5825,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 68,
+    "timestamp": "2024-12-06 11:14:16",
+    "service_id": 4,
+    "server_id": 1,
+    "metric_name": "error_rate",
+    "value": 600,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 69,
+    "timestamp": "2026-01-19 09:08:12",
+    "service_id": 8,
+    "server_id": 15,
+    "metric_name": "network_in",
+    "value": 9571,
+    "unit": "count"
+  },
+  {
+    "metric_id": 70,
+    "timestamp": "2024-03-29 21:34:52",
+    "service_id": 2,
+    "server_id": 6,
+    "metric_name": "request_count",
+    "value": 9122,
+    "unit": "count"
+  },
+  {
+    "metric_id": 71,
+    "timestamp": "2024-11-25 03:54:44",
+    "service_id": 2,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 6896,
+    "unit": "count"
+  },
+  {
+    "metric_id": 72,
+    "timestamp": "2024-02-20 21:08:19",
+    "service_id": 3,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 12,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 73,
+    "timestamp": "2025-06-27 10:59:06",
+    "service_id": 8,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 1867,
+    "unit": "count"
+  },
+  {
+    "metric_id": 74,
+    "timestamp": "2024-11-15 01:33:39",
+    "service_id": 10,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 9589,
+    "unit": "count"
+  },
+  {
+    "metric_id": 75,
+    "timestamp": "2024-11-29 19:03:51",
+    "service_id": 12,
+    "server_id": 3,
+    "metric_name": "error_rate",
+    "value": 2329,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 76,
+    "timestamp": "2024-01-14 15:41:58",
+    "service_id": 8,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 2995,
+    "unit": "count"
+  },
+  {
+    "metric_id": 77,
+    "timestamp": "2024-09-02 07:55:46",
+    "service_id": 6,
+    "server_id": 14,
+    "metric_name": "latency_p99",
+    "value": 3476,
+    "unit": "count"
+  },
+  {
+    "metric_id": 78,
+    "timestamp": "2024-10-01 17:38:34",
+    "service_id": 2,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 9281,
+    "unit": "count"
+  },
+  {
+    "metric_id": 79,
+    "timestamp": "2024-08-01 01:32:57",
+    "service_id": 9,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 8873,
+    "unit": "count"
+  },
+  {
+    "metric_id": 80,
+    "timestamp": "2025-10-30 02:31:13",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 7041,
+    "unit": "count"
+  },
+  {
+    "metric_id": 81,
+    "timestamp": "2025-06-18 15:36:18",
+    "service_id": 11,
+    "server_id": 1,
+    "metric_name": "network_in",
+    "value": 8242,
+    "unit": "count"
+  },
+  {
+    "metric_id": 82,
+    "timestamp": "2025-09-15 08:01:05",
+    "service_id": 7,
+    "server_id": 11,
+    "metric_name": "network_out",
+    "value": 9751,
+    "unit": "count"
+  },
+  {
+    "metric_id": 83,
+    "timestamp": "2024-07-28 09:09:35",
+    "service_id": 1,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 4203,
+    "unit": "count"
+  },
+  {
+    "metric_id": 84,
+    "timestamp": "2026-03-10 13:12:47",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "latency_p99",
+    "value": 5622,
+    "unit": "count"
+  },
+  {
+    "metric_id": 85,
+    "timestamp": "2025-07-30 21:17:47",
+    "service_id": 6,
+    "server_id": 9,
+    "metric_name": "latency_p99",
+    "value": 8201,
+    "unit": "count"
+  },
+  {
+    "metric_id": 86,
+    "timestamp": "2024-09-07 11:36:46",
+    "service_id": 4,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 6258,
+    "unit": "count"
+  },
+  {
+    "metric_id": 87,
+    "timestamp": "2025-04-05 18:52:57",
+    "service_id": 4,
+    "server_id": 13,
+    "metric_name": "network_out",
+    "value": 391,
+    "unit": "count"
+  },
+  {
+    "metric_id": 88,
+    "timestamp": "2026-03-19 21:45:14",
+    "service_id": 2,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 6515,
+    "unit": "count"
+  },
+  {
+    "metric_id": 89,
+    "timestamp": "2024-03-09 01:52:31",
+    "service_id": 11,
+    "server_id": 8,
+    "metric_name": "cpu_usage",
+    "value": 11,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 90,
+    "timestamp": "2025-06-14 18:41:55",
+    "service_id": 4,
+    "server_id": 14,
+    "metric_name": "cpu_usage",
+    "value": 31,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 91,
+    "timestamp": "2025-12-11 08:41:01",
+    "service_id": 7,
+    "server_id": 10,
+    "metric_name": "network_out",
+    "value": 8332,
+    "unit": "count"
+  },
+  {
+    "metric_id": 92,
+    "timestamp": "2026-03-17 23:31:46",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "network_out",
+    "value": 7672,
+    "unit": "count"
+  },
+  {
+    "metric_id": 93,
+    "timestamp": "2026-03-14 18:59:07",
+    "service_id": 2,
+    "server_id": 9,
+    "metric_name": "error_rate",
+    "value": 554,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 94,
+    "timestamp": "2025-08-07 03:18:29",
+    "service_id": 7,
+    "server_id": 15,
+    "metric_name": "disk_io",
+    "value": 3510,
+    "unit": "count"
+  },
+  {
+    "metric_id": 95,
+    "timestamp": "2024-11-22 00:21:26",
+    "service_id": 7,
+    "server_id": 1,
+    "metric_name": "request_count",
+    "value": 149,
+    "unit": "count"
+  },
+  {
+    "metric_id": 96,
+    "timestamp": "2026-02-15 13:23:44",
+    "service_id": 1,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 3901,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 97,
+    "timestamp": "2025-10-15 21:00:20",
+    "service_id": 5,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 74,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 98,
+    "timestamp": "2025-05-07 01:18:56",
+    "service_id": 7,
+    "server_id": 7,
+    "metric_name": "memory_usage",
+    "value": 76,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 99,
+    "timestamp": "2025-12-18 18:45:54",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "network_in",
+    "value": 4325,
+    "unit": "count"
+  },
+  {
+    "metric_id": 100,
+    "timestamp": "2025-09-13 17:48:49",
+    "service_id": 12,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 3423,
+    "unit": "count"
+  },
+  {
+    "metric_id": 101,
+    "timestamp": "2024-11-22 16:57:05",
+    "service_id": 9,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 1205,
+    "unit": "count"
+  },
+  {
+    "metric_id": 102,
+    "timestamp": "2025-01-21 15:49:58",
+    "service_id": 9,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 1799,
+    "unit": "count"
+  },
+  {
+    "metric_id": 103,
+    "timestamp": "2026-02-12 18:55:47",
+    "service_id": 6,
+    "server_id": 9,
+    "metric_name": "latency_p99",
+    "value": 6139,
+    "unit": "count"
+  },
+  {
+    "metric_id": 104,
+    "timestamp": "2024-12-18 18:50:30",
+    "service_id": 11,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 2390,
+    "unit": "count"
+  },
+  {
+    "metric_id": 105,
+    "timestamp": "2025-02-08 18:47:49",
+    "service_id": 4,
+    "server_id": 4,
+    "metric_name": "memory_usage",
+    "value": 32,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 106,
+    "timestamp": "2024-01-22 17:28:42",
+    "service_id": 3,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 9618,
+    "unit": "count"
+  },
+  {
+    "metric_id": 107,
+    "timestamp": "2024-01-06 11:46:02",
+    "service_id": 12,
+    "server_id": 5,
+    "metric_name": "memory_usage",
+    "value": 54,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 108,
+    "timestamp": "2024-12-28 15:13:37",
+    "service_id": 4,
+    "server_id": 6,
+    "metric_name": "error_rate",
+    "value": 8427,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 109,
+    "timestamp": "2025-05-29 13:23:08",
+    "service_id": 4,
+    "server_id": 14,
+    "metric_name": "network_out",
+    "value": 7920,
+    "unit": "count"
+  },
+  {
+    "metric_id": 110,
+    "timestamp": "2024-05-27 15:39:57",
+    "service_id": 1,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 4697,
+    "unit": "count"
+  },
+  {
+    "metric_id": 111,
+    "timestamp": "2025-03-22 23:11:42",
+    "service_id": 1,
+    "server_id": 11,
+    "metric_name": "network_out",
+    "value": 9707,
+    "unit": "count"
+  },
+  {
+    "metric_id": 112,
+    "timestamp": "2025-06-10 04:23:28",
+    "service_id": 3,
+    "server_id": 6,
+    "metric_name": "network_in",
+    "value": 8600,
+    "unit": "count"
+  },
+  {
+    "metric_id": 113,
+    "timestamp": "2026-02-17 21:32:22",
+    "service_id": 3,
+    "server_id": 12,
+    "metric_name": "memory_usage",
+    "value": 73,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 114,
+    "timestamp": "2024-01-18 14:47:24",
+    "service_id": 5,
+    "server_id": 10,
+    "metric_name": "disk_io",
+    "value": 7569,
+    "unit": "count"
+  },
+  {
+    "metric_id": 115,
+    "timestamp": "2024-11-28 09:09:19",
+    "service_id": 12,
+    "server_id": 6,
+    "metric_name": "latency_p99",
+    "value": 8652,
+    "unit": "count"
+  },
+  {
+    "metric_id": 116,
+    "timestamp": "2025-02-17 11:36:05",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "error_rate",
+    "value": 6394,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 117,
+    "timestamp": "2025-12-27 00:01:34",
+    "service_id": 8,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 57,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 118,
+    "timestamp": "2024-01-19 17:26:26",
+    "service_id": 6,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 4087,
+    "unit": "count"
+  },
+  {
+    "metric_id": 119,
+    "timestamp": "2026-02-09 05:21:15",
+    "service_id": 10,
+    "server_id": 2,
+    "metric_name": "network_out",
+    "value": 410,
+    "unit": "count"
+  },
+  {
+    "metric_id": 120,
+    "timestamp": "2024-08-29 20:50:08",
+    "service_id": 5,
+    "server_id": 14,
+    "metric_name": "memory_usage",
+    "value": 17,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 121,
+    "timestamp": "2024-09-12 00:23:43",
+    "service_id": 6,
+    "server_id": 14,
+    "metric_name": "disk_io",
+    "value": 8448,
+    "unit": "count"
+  },
+  {
+    "metric_id": 122,
+    "timestamp": "2024-12-31 22:28:24",
+    "service_id": 8,
+    "server_id": 4,
+    "metric_name": "memory_usage",
+    "value": 19,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 123,
+    "timestamp": "2026-02-18 22:27:00",
+    "service_id": 6,
+    "server_id": 9,
+    "metric_name": "memory_usage",
+    "value": 16,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 124,
+    "timestamp": "2024-05-05 01:55:23",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "disk_io",
+    "value": 6914,
+    "unit": "count"
+  },
+  {
+    "metric_id": 125,
+    "timestamp": "2024-05-29 23:30:44",
+    "service_id": 6,
+    "server_id": 13,
+    "metric_name": "request_count",
+    "value": 7088,
+    "unit": "count"
+  },
+  {
+    "metric_id": 126,
+    "timestamp": "2025-06-07 10:31:06",
+    "service_id": 7,
+    "server_id": 4,
+    "metric_name": "memory_usage",
+    "value": 25,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 127,
+    "timestamp": "2024-12-05 02:41:02",
+    "service_id": 12,
+    "server_id": 4,
+    "metric_name": "memory_usage",
+    "value": 94,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 128,
+    "timestamp": "2025-08-06 02:38:59",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 7028,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 129,
+    "timestamp": "2024-12-02 20:39:17",
+    "service_id": 6,
+    "server_id": 13,
+    "metric_name": "disk_io",
+    "value": 1400,
+    "unit": "count"
+  },
+  {
+    "metric_id": 130,
+    "timestamp": "2024-11-11 04:02:04",
+    "service_id": 8,
+    "server_id": 1,
+    "metric_name": "cpu_usage",
+    "value": 24,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 131,
+    "timestamp": "2025-10-25 06:15:31",
+    "service_id": 9,
+    "server_id": 11,
+    "metric_name": "network_in",
+    "value": 8684,
+    "unit": "count"
+  },
+  {
+    "metric_id": 132,
+    "timestamp": "2025-05-21 16:07:41",
+    "service_id": 1,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 91,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 133,
+    "timestamp": "2025-07-02 07:40:30",
+    "service_id": 7,
+    "server_id": 2,
+    "metric_name": "memory_usage",
+    "value": 24,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 134,
+    "timestamp": "2025-09-01 06:01:17",
+    "service_id": 10,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 2128,
+    "unit": "count"
+  },
+  {
+    "metric_id": 135,
+    "timestamp": "2025-07-13 00:40:56",
+    "service_id": 12,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 1146,
+    "unit": "count"
+  },
+  {
+    "metric_id": 136,
+    "timestamp": "2025-03-21 06:38:07",
+    "service_id": 3,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 6290,
+    "unit": "count"
+  },
+  {
+    "metric_id": 137,
+    "timestamp": "2025-09-10 23:49:12",
+    "service_id": 10,
+    "server_id": 12,
+    "metric_name": "cpu_usage",
+    "value": 16,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 138,
+    "timestamp": "2025-07-04 15:56:21",
+    "service_id": 11,
+    "server_id": 8,
+    "metric_name": "disk_io",
+    "value": 6039,
+    "unit": "count"
+  },
+  {
+    "metric_id": 139,
+    "timestamp": "2024-10-14 11:32:19",
+    "service_id": 6,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 5292,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 140,
+    "timestamp": "2024-03-17 07:22:53",
+    "service_id": 5,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 4777,
+    "unit": "count"
+  },
+  {
+    "metric_id": 141,
+    "timestamp": "2025-11-26 12:00:43",
+    "service_id": 6,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 2509,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 142,
+    "timestamp": "2024-01-03 00:04:30",
+    "service_id": 5,
+    "server_id": 6,
+    "metric_name": "network_out",
+    "value": 4396,
+    "unit": "count"
+  },
+  {
+    "metric_id": 143,
+    "timestamp": "2025-10-13 23:54:26",
+    "service_id": 2,
+    "server_id": 7,
+    "metric_name": "network_out",
+    "value": 5000,
+    "unit": "count"
+  },
+  {
+    "metric_id": 144,
+    "timestamp": "2024-01-24 20:37:05",
+    "service_id": 4,
+    "server_id": 11,
+    "metric_name": "network_in",
+    "value": 2580,
+    "unit": "count"
+  },
+  {
+    "metric_id": 145,
+    "timestamp": "2025-11-22 08:17:12",
+    "service_id": 8,
+    "server_id": 7,
+    "metric_name": "network_out",
+    "value": 6816,
+    "unit": "count"
+  },
+  {
+    "metric_id": 146,
+    "timestamp": "2025-07-04 08:21:04",
+    "service_id": 8,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 48,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 147,
+    "timestamp": "2025-07-18 18:45:56",
+    "service_id": 9,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 14,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 148,
+    "timestamp": "2024-03-29 05:30:57",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "network_in",
+    "value": 9214,
+    "unit": "count"
+  },
+  {
+    "metric_id": 149,
+    "timestamp": "2025-05-10 01:35:35",
+    "service_id": 8,
+    "server_id": 1,
+    "metric_name": "request_count",
+    "value": 6071,
+    "unit": "count"
+  },
+  {
+    "metric_id": 150,
+    "timestamp": "2025-10-22 14:59:45",
+    "service_id": 4,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 1447,
+    "unit": "count"
+  },
+  {
+    "metric_id": 151,
+    "timestamp": "2025-12-22 05:12:09",
+    "service_id": 6,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 9213,
+    "unit": "count"
+  },
+  {
+    "metric_id": 152,
+    "timestamp": "2025-09-23 14:15:56",
+    "service_id": 8,
+    "server_id": 11,
+    "metric_name": "cpu_usage",
+    "value": 39,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 153,
+    "timestamp": "2024-12-19 00:08:33",
+    "service_id": 8,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 6404,
+    "unit": "count"
+  },
+  {
+    "metric_id": 154,
+    "timestamp": "2024-09-11 05:22:58",
+    "service_id": 10,
+    "server_id": 11,
+    "metric_name": "cpu_usage",
+    "value": 61,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 155,
+    "timestamp": "2024-07-26 08:49:01",
+    "service_id": 1,
+    "server_id": 6,
+    "metric_name": "network_in",
+    "value": 7817,
+    "unit": "count"
+  },
+  {
+    "metric_id": 156,
+    "timestamp": "2026-03-07 21:12:40",
+    "service_id": 2,
+    "server_id": 13,
+    "metric_name": "latency_p99",
+    "value": 6088,
+    "unit": "count"
+  },
+  {
+    "metric_id": 157,
+    "timestamp": "2025-07-12 22:52:53",
+    "service_id": 12,
+    "server_id": 6,
+    "metric_name": "cpu_usage",
+    "value": 34,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 158,
+    "timestamp": "2024-03-07 18:11:17",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 20,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 159,
+    "timestamp": "2024-01-03 23:14:52",
+    "service_id": 2,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 3497,
+    "unit": "count"
+  },
+  {
+    "metric_id": 160,
+    "timestamp": "2024-07-10 01:16:17",
+    "service_id": 1,
+    "server_id": 13,
+    "metric_name": "network_in",
+    "value": 2088,
+    "unit": "count"
+  },
+  {
+    "metric_id": 161,
+    "timestamp": "2024-11-17 18:19:50",
+    "service_id": 4,
+    "server_id": 1,
+    "metric_name": "error_rate",
+    "value": 5159,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 162,
+    "timestamp": "2024-10-10 02:39:12",
+    "service_id": 10,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 8178,
+    "unit": "count"
+  },
+  {
+    "metric_id": 163,
+    "timestamp": "2024-01-26 23:47:00",
+    "service_id": 5,
+    "server_id": 7,
+    "metric_name": "network_out",
+    "value": 5577,
+    "unit": "count"
+  },
+  {
+    "metric_id": 164,
+    "timestamp": "2024-06-13 12:32:29",
+    "service_id": 11,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 8538,
+    "unit": "count"
+  },
+  {
+    "metric_id": 165,
+    "timestamp": "2025-09-14 04:41:34",
+    "service_id": 2,
+    "server_id": 8,
+    "metric_name": "memory_usage",
+    "value": 35,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 166,
+    "timestamp": "2025-01-03 12:41:24",
+    "service_id": 8,
+    "server_id": 7,
+    "metric_name": "request_count",
+    "value": 8351,
+    "unit": "count"
+  },
+  {
+    "metric_id": 167,
+    "timestamp": "2025-11-27 02:23:04",
+    "service_id": 8,
+    "server_id": 12,
+    "metric_name": "latency_p99",
+    "value": 6681,
+    "unit": "count"
+  },
+  {
+    "metric_id": 168,
+    "timestamp": "2024-01-09 02:32:31",
+    "service_id": 7,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 4784,
+    "unit": "count"
+  },
+  {
+    "metric_id": 169,
+    "timestamp": "2025-09-23 03:22:24",
+    "service_id": 1,
+    "server_id": 14,
+    "metric_name": "request_count",
+    "value": 6981,
+    "unit": "count"
+  },
+  {
+    "metric_id": 170,
+    "timestamp": "2025-07-10 16:10:01",
+    "service_id": 10,
+    "server_id": 7,
+    "metric_name": "network_in",
+    "value": 342,
+    "unit": "count"
+  },
+  {
+    "metric_id": 171,
+    "timestamp": "2025-07-04 03:35:13",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "memory_usage",
+    "value": 71,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 172,
+    "timestamp": "2024-09-30 08:35:07",
+    "service_id": 12,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 44,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 173,
+    "timestamp": "2025-02-03 21:05:39",
+    "service_id": 9,
+    "server_id": 14,
+    "metric_name": "disk_io",
+    "value": 5700,
+    "unit": "count"
+  },
+  {
+    "metric_id": 174,
+    "timestamp": "2025-11-12 09:44:40",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "cpu_usage",
+    "value": 50,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 175,
+    "timestamp": "2024-11-10 20:28:41",
+    "service_id": 2,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 5473,
+    "unit": "count"
+  },
+  {
+    "metric_id": 176,
+    "timestamp": "2025-01-22 17:04:24",
+    "service_id": 10,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 9311,
+    "unit": "count"
+  },
+  {
+    "metric_id": 177,
+    "timestamp": "2024-02-14 13:34:03",
+    "service_id": 9,
+    "server_id": 10,
+    "metric_name": "latency_p99",
+    "value": 9965,
+    "unit": "count"
+  },
+  {
+    "metric_id": 178,
+    "timestamp": "2026-01-07 11:06:52",
+    "service_id": 11,
+    "server_id": 6,
+    "metric_name": "cpu_usage",
+    "value": 87,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 179,
+    "timestamp": "2024-06-02 15:41:13",
+    "service_id": 8,
+    "server_id": 12,
+    "metric_name": "error_rate",
+    "value": 1298,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 180,
+    "timestamp": "2024-07-29 21:38:06",
+    "service_id": 9,
+    "server_id": 2,
+    "metric_name": "network_out",
+    "value": 4780,
+    "unit": "count"
+  },
+  {
+    "metric_id": 181,
+    "timestamp": "2025-12-14 18:55:52",
+    "service_id": 12,
+    "server_id": 6,
+    "metric_name": "disk_io",
+    "value": 1994,
+    "unit": "count"
+  },
+  {
+    "metric_id": 182,
+    "timestamp": "2025-04-16 12:26:48",
+    "service_id": 10,
+    "server_id": 14,
+    "metric_name": "network_out",
+    "value": 2521,
+    "unit": "count"
+  },
+  {
+    "metric_id": 183,
+    "timestamp": "2024-10-14 16:58:28",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 6485,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 184,
+    "timestamp": "2024-12-21 23:01:40",
+    "service_id": 11,
+    "server_id": 1,
+    "metric_name": "cpu_usage",
+    "value": 12,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 185,
+    "timestamp": "2025-07-23 05:00:05",
+    "service_id": 6,
+    "server_id": 10,
+    "metric_name": "latency_p99",
+    "value": 3560,
+    "unit": "count"
+  },
+  {
+    "metric_id": 186,
+    "timestamp": "2024-01-12 07:52:20",
+    "service_id": 2,
+    "server_id": 14,
+    "metric_name": "latency_p99",
+    "value": 8633,
+    "unit": "count"
+  },
+  {
+    "metric_id": 187,
+    "timestamp": "2026-01-03 08:51:27",
+    "service_id": 6,
+    "server_id": 5,
+    "metric_name": "memory_usage",
+    "value": 30,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 188,
+    "timestamp": "2025-08-14 14:21:48",
+    "service_id": 1,
+    "server_id": 9,
+    "metric_name": "memory_usage",
+    "value": 78,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 189,
+    "timestamp": "2025-03-03 04:26:11",
+    "service_id": 11,
+    "server_id": 4,
+    "metric_name": "network_in",
+    "value": 5046,
+    "unit": "count"
+  },
+  {
+    "metric_id": 190,
+    "timestamp": "2025-04-28 14:45:35",
+    "service_id": 2,
+    "server_id": 11,
+    "metric_name": "error_rate",
+    "value": 2385,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 191,
+    "timestamp": "2024-01-25 18:01:51",
+    "service_id": 12,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 7129,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 192,
+    "timestamp": "2025-08-01 00:46:28",
+    "service_id": 12,
+    "server_id": 3,
+    "metric_name": "latency_p99",
+    "value": 7090,
+    "unit": "count"
+  },
+  {
+    "metric_id": 193,
+    "timestamp": "2025-08-30 05:40:48",
+    "service_id": 10,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 3445,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 194,
+    "timestamp": "2025-02-09 10:53:36",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "network_in",
+    "value": 4691,
+    "unit": "count"
+  },
+  {
+    "metric_id": 195,
+    "timestamp": "2024-06-21 12:58:07",
+    "service_id": 12,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 7806,
+    "unit": "count"
+  },
+  {
+    "metric_id": 196,
+    "timestamp": "2025-11-04 08:07:43",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 4401,
+    "unit": "count"
+  },
+  {
+    "metric_id": 197,
+    "timestamp": "2025-05-14 12:32:20",
+    "service_id": 5,
+    "server_id": 7,
+    "metric_name": "disk_io",
+    "value": 7502,
+    "unit": "count"
+  },
+  {
+    "metric_id": 198,
+    "timestamp": "2026-01-31 06:51:02",
+    "service_id": 6,
+    "server_id": 7,
+    "metric_name": "network_in",
+    "value": 8590,
+    "unit": "count"
+  },
+  {
+    "metric_id": 199,
+    "timestamp": "2025-06-12 08:00:20",
+    "service_id": 4,
+    "server_id": 13,
+    "metric_name": "latency_p99",
+    "value": 7052,
+    "unit": "count"
+  },
+  {
+    "metric_id": 200,
+    "timestamp": "2025-07-24 13:38:23",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 12,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 201,
+    "timestamp": "2026-01-01 00:04:52",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 26,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 202,
+    "timestamp": "2024-12-07 01:24:11",
+    "service_id": 11,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 20,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 203,
+    "timestamp": "2024-12-07 20:10:04",
+    "service_id": 11,
+    "server_id": 5,
+    "metric_name": "latency_p99",
+    "value": 2060,
+    "unit": "count"
+  },
+  {
+    "metric_id": 204,
+    "timestamp": "2024-01-15 07:01:25",
+    "service_id": 12,
+    "server_id": 11,
+    "metric_name": "network_in",
+    "value": 5802,
+    "unit": "count"
+  },
+  {
+    "metric_id": 205,
+    "timestamp": "2025-01-03 12:42:33",
+    "service_id": 5,
+    "server_id": 1,
+    "metric_name": "request_count",
+    "value": 8980,
+    "unit": "count"
+  },
+  {
+    "metric_id": 206,
+    "timestamp": "2024-07-30 17:51:54",
+    "service_id": 4,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 33,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 207,
+    "timestamp": "2024-04-04 05:43:04",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "network_in",
+    "value": 9814,
+    "unit": "count"
+  },
+  {
+    "metric_id": 208,
+    "timestamp": "2025-03-26 19:06:04",
+    "service_id": 2,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 8321,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 209,
+    "timestamp": "2026-01-15 22:57:49",
+    "service_id": 10,
+    "server_id": 12,
+    "metric_name": "memory_usage",
+    "value": 36,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 210,
+    "timestamp": "2025-02-28 23:22:03",
+    "service_id": 4,
+    "server_id": 4,
+    "metric_name": "memory_usage",
+    "value": 90,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 211,
+    "timestamp": "2024-03-25 22:33:46",
+    "service_id": 9,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 26,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 212,
+    "timestamp": "2025-04-22 10:30:27",
+    "service_id": 4,
+    "server_id": 3,
+    "metric_name": "request_count",
+    "value": 3210,
+    "unit": "count"
+  },
+  {
+    "metric_id": 213,
+    "timestamp": "2024-03-02 07:52:17",
+    "service_id": 9,
+    "server_id": 10,
+    "metric_name": "disk_io",
+    "value": 4175,
+    "unit": "count"
+  },
+  {
+    "metric_id": 214,
+    "timestamp": "2026-01-20 02:38:37",
+    "service_id": 6,
+    "server_id": 3,
+    "metric_name": "request_count",
+    "value": 3619,
+    "unit": "count"
+  },
+  {
+    "metric_id": 215,
+    "timestamp": "2025-05-29 12:20:36",
+    "service_id": 11,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 9932,
+    "unit": "count"
+  },
+  {
+    "metric_id": 216,
+    "timestamp": "2026-02-08 13:04:14",
+    "service_id": 1,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 3810,
+    "unit": "count"
+  },
+  {
+    "metric_id": 217,
+    "timestamp": "2024-10-17 04:28:58",
+    "service_id": 1,
+    "server_id": 15,
+    "metric_name": "request_count",
+    "value": 5646,
+    "unit": "count"
+  },
+  {
+    "metric_id": 218,
+    "timestamp": "2024-12-04 17:26:30",
+    "service_id": 11,
+    "server_id": 11,
+    "metric_name": "latency_p99",
+    "value": 9726,
+    "unit": "count"
+  },
+  {
+    "metric_id": 219,
+    "timestamp": "2024-09-03 07:08:57",
+    "service_id": 10,
+    "server_id": 5,
+    "metric_name": "memory_usage",
+    "value": 91,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 220,
+    "timestamp": "2025-02-02 18:42:35",
+    "service_id": 4,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 4546,
+    "unit": "count"
+  },
+  {
+    "metric_id": 221,
+    "timestamp": "2024-09-08 01:29:59",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 9974,
+    "unit": "count"
+  },
+  {
+    "metric_id": 222,
+    "timestamp": "2025-07-19 04:13:35",
+    "service_id": 1,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 9938,
+    "unit": "count"
+  },
+  {
+    "metric_id": 223,
+    "timestamp": "2024-09-25 23:03:30",
+    "service_id": 12,
+    "server_id": 6,
+    "metric_name": "disk_io",
+    "value": 2108,
+    "unit": "count"
+  },
+  {
+    "metric_id": 224,
+    "timestamp": "2025-11-29 11:59:12",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 4665,
+    "unit": "count"
+  },
+  {
+    "metric_id": 225,
+    "timestamp": "2024-08-16 15:05:13",
+    "service_id": 12,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 5647,
+    "unit": "count"
+  },
+  {
+    "metric_id": 226,
+    "timestamp": "2025-10-18 00:14:34",
+    "service_id": 8,
+    "server_id": 6,
+    "metric_name": "disk_io",
+    "value": 8390,
+    "unit": "count"
+  },
+  {
+    "metric_id": 227,
+    "timestamp": "2026-02-10 03:56:23",
+    "service_id": 6,
+    "server_id": 4,
+    "metric_name": "cpu_usage",
+    "value": 40,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 228,
+    "timestamp": "2025-08-27 20:32:31",
+    "service_id": 3,
+    "server_id": 4,
+    "metric_name": "network_in",
+    "value": 4009,
+    "unit": "count"
+  },
+  {
+    "metric_id": 229,
+    "timestamp": "2024-07-21 09:17:01",
+    "service_id": 5,
+    "server_id": 6,
+    "metric_name": "memory_usage",
+    "value": 18,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 230,
+    "timestamp": "2024-08-20 07:06:12",
+    "service_id": 8,
+    "server_id": 5,
+    "metric_name": "network_in",
+    "value": 3011,
+    "unit": "count"
+  },
+  {
+    "metric_id": 231,
+    "timestamp": "2024-01-14 08:40:04",
+    "service_id": 5,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 9864,
+    "unit": "count"
+  },
+  {
+    "metric_id": 232,
+    "timestamp": "2025-02-18 10:07:40",
+    "service_id": 1,
+    "server_id": 15,
+    "metric_name": "memory_usage",
+    "value": 64,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 233,
+    "timestamp": "2025-03-06 23:18:08",
+    "service_id": 5,
+    "server_id": 1,
+    "metric_name": "request_count",
+    "value": 3907,
+    "unit": "count"
+  },
+  {
+    "metric_id": 234,
+    "timestamp": "2025-03-17 18:26:25",
+    "service_id": 6,
+    "server_id": 8,
+    "metric_name": "cpu_usage",
+    "value": 70,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 235,
+    "timestamp": "2025-07-27 14:17:50",
+    "service_id": 11,
+    "server_id": 7,
+    "metric_name": "request_count",
+    "value": 2840,
+    "unit": "count"
+  },
+  {
+    "metric_id": 236,
+    "timestamp": "2025-12-30 17:24:49",
+    "service_id": 11,
+    "server_id": 11,
+    "metric_name": "request_count",
+    "value": 2957,
+    "unit": "count"
+  },
+  {
+    "metric_id": 237,
+    "timestamp": "2024-01-10 10:52:32",
+    "service_id": 1,
+    "server_id": 6,
+    "metric_name": "request_count",
+    "value": 6261,
+    "unit": "count"
+  },
+  {
+    "metric_id": 238,
+    "timestamp": "2026-02-18 03:10:22",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 8921,
+    "unit": "count"
+  },
+  {
+    "metric_id": 239,
+    "timestamp": "2025-12-31 02:29:07",
+    "service_id": 1,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 225,
+    "unit": "count"
+  },
+  {
+    "metric_id": 240,
+    "timestamp": "2025-08-20 05:11:14",
+    "service_id": 1,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 7949,
+    "unit": "count"
+  },
+  {
+    "metric_id": 241,
+    "timestamp": "2024-09-28 12:49:47",
+    "service_id": 8,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 7598,
+    "unit": "count"
+  },
+  {
+    "metric_id": 242,
+    "timestamp": "2025-05-07 06:45:05",
+    "service_id": 8,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 4225,
+    "unit": "count"
+  },
+  {
+    "metric_id": 243,
+    "timestamp": "2024-07-23 14:46:02",
+    "service_id": 1,
+    "server_id": 10,
+    "metric_name": "cpu_usage",
+    "value": 90,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 244,
+    "timestamp": "2025-12-25 01:37:17",
+    "service_id": 12,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 7955,
+    "unit": "count"
+  },
+  {
+    "metric_id": 245,
+    "timestamp": "2024-04-15 06:47:22",
+    "service_id": 8,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 9604,
+    "unit": "count"
+  },
+  {
+    "metric_id": 246,
+    "timestamp": "2024-12-28 12:31:34",
+    "service_id": 3,
+    "server_id": 14,
+    "metric_name": "cpu_usage",
+    "value": 12,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 247,
+    "timestamp": "2024-04-22 20:01:06",
+    "service_id": 5,
+    "server_id": 4,
+    "metric_name": "latency_p99",
+    "value": 6651,
+    "unit": "count"
+  },
+  {
+    "metric_id": 248,
+    "timestamp": "2024-02-25 16:10:50",
+    "service_id": 5,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 1206,
+    "unit": "count"
+  },
+  {
+    "metric_id": 249,
+    "timestamp": "2024-06-03 07:43:08",
+    "service_id": 5,
+    "server_id": 6,
+    "metric_name": "disk_io",
+    "value": 6479,
+    "unit": "count"
+  },
+  {
+    "metric_id": 250,
+    "timestamp": "2025-10-31 23:10:05",
+    "service_id": 12,
+    "server_id": 15,
+    "metric_name": "disk_io",
+    "value": 9788,
+    "unit": "count"
+  },
+  {
+    "metric_id": 251,
+    "timestamp": "2025-02-25 01:14:44",
+    "service_id": 2,
+    "server_id": 4,
+    "metric_name": "latency_p99",
+    "value": 2951,
+    "unit": "count"
+  },
+  {
+    "metric_id": 252,
+    "timestamp": "2025-12-07 18:15:50",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 5115,
+    "unit": "count"
+  },
+  {
+    "metric_id": 253,
+    "timestamp": "2025-08-12 04:41:26",
+    "service_id": 7,
+    "server_id": 11,
+    "metric_name": "network_out",
+    "value": 1185,
+    "unit": "count"
+  },
+  {
+    "metric_id": 254,
+    "timestamp": "2024-03-11 06:50:32",
+    "service_id": 12,
+    "server_id": 11,
+    "metric_name": "network_in",
+    "value": 1682,
+    "unit": "count"
+  },
+  {
+    "metric_id": 255,
+    "timestamp": "2024-10-19 15:33:58",
+    "service_id": 7,
+    "server_id": 6,
+    "metric_name": "network_in",
+    "value": 2584,
+    "unit": "count"
+  },
+  {
+    "metric_id": 256,
+    "timestamp": "2025-02-10 12:36:12",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "network_out",
+    "value": 6195,
+    "unit": "count"
+  },
+  {
+    "metric_id": 257,
+    "timestamp": "2024-01-04 20:56:46",
+    "service_id": 12,
+    "server_id": 14,
+    "metric_name": "disk_io",
+    "value": 1528,
+    "unit": "count"
+  },
+  {
+    "metric_id": 258,
+    "timestamp": "2025-12-05 01:13:10",
+    "service_id": 8,
+    "server_id": 10,
+    "metric_name": "latency_p99",
+    "value": 9725,
+    "unit": "count"
+  },
+  {
+    "metric_id": 259,
+    "timestamp": "2025-08-26 19:22:56",
+    "service_id": 2,
+    "server_id": 3,
+    "metric_name": "request_count",
+    "value": 5827,
+    "unit": "count"
+  },
+  {
+    "metric_id": 260,
+    "timestamp": "2024-01-02 14:10:38",
+    "service_id": 1,
+    "server_id": 6,
+    "metric_name": "latency_p99",
+    "value": 4958,
+    "unit": "count"
+  },
+  {
+    "metric_id": 261,
+    "timestamp": "2025-08-11 01:16:05",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "latency_p99",
+    "value": 6834,
+    "unit": "count"
+  },
+  {
+    "metric_id": 262,
+    "timestamp": "2024-04-21 12:28:16",
+    "service_id": 8,
+    "server_id": 5,
+    "metric_name": "network_out",
+    "value": 644,
+    "unit": "count"
+  },
+  {
+    "metric_id": 263,
+    "timestamp": "2024-05-17 12:39:24",
+    "service_id": 12,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 5855,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 264,
+    "timestamp": "2024-06-29 21:10:23",
+    "service_id": 12,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 63,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 265,
+    "timestamp": "2025-09-01 09:14:58",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "disk_io",
+    "value": 8202,
+    "unit": "count"
+  },
+  {
+    "metric_id": 266,
+    "timestamp": "2024-07-17 15:36:39",
+    "service_id": 11,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 2303,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 267,
+    "timestamp": "2024-12-25 14:15:32",
+    "service_id": 7,
+    "server_id": 13,
+    "metric_name": "cpu_usage",
+    "value": 67,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 268,
+    "timestamp": "2025-08-30 23:42:54",
+    "service_id": 6,
+    "server_id": 6,
+    "metric_name": "memory_usage",
+    "value": 51,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 269,
+    "timestamp": "2025-10-23 19:05:07",
+    "service_id": 3,
+    "server_id": 9,
+    "metric_name": "cpu_usage",
+    "value": 14,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 270,
+    "timestamp": "2024-02-19 06:32:09",
+    "service_id": 3,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 2174,
+    "unit": "count"
+  },
+  {
+    "metric_id": 271,
+    "timestamp": "2024-12-08 18:59:10",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "request_count",
+    "value": 6486,
+    "unit": "count"
+  },
+  {
+    "metric_id": 272,
+    "timestamp": "2025-04-30 05:53:23",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "cpu_usage",
+    "value": 66,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 273,
+    "timestamp": "2024-05-17 01:07:19",
+    "service_id": 2,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 6374,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 274,
+    "timestamp": "2024-04-29 06:00:41",
+    "service_id": 5,
+    "server_id": 1,
+    "metric_name": "request_count",
+    "value": 908,
+    "unit": "count"
+  },
+  {
+    "metric_id": 275,
+    "timestamp": "2025-05-09 18:05:35",
+    "service_id": 11,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 4653,
+    "unit": "count"
+  },
+  {
+    "metric_id": 276,
+    "timestamp": "2025-12-27 21:34:59",
+    "service_id": 12,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 8108,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 277,
+    "timestamp": "2025-04-19 01:19:49",
+    "service_id": 3,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 69,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 278,
+    "timestamp": "2025-03-31 14:42:04",
+    "service_id": 7,
+    "server_id": 11,
+    "metric_name": "error_rate",
+    "value": 4882,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 279,
+    "timestamp": "2024-07-23 22:32:14",
+    "service_id": 5,
+    "server_id": 12,
+    "metric_name": "latency_p99",
+    "value": 3470,
+    "unit": "count"
+  },
+  {
+    "metric_id": 280,
+    "timestamp": "2025-03-01 22:05:45",
+    "service_id": 3,
+    "server_id": 3,
+    "metric_name": "cpu_usage",
+    "value": 19,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 281,
+    "timestamp": "2025-01-03 19:14:22",
+    "service_id": 8,
+    "server_id": 13,
+    "metric_name": "request_count",
+    "value": 2855,
+    "unit": "count"
+  },
+  {
+    "metric_id": 282,
+    "timestamp": "2024-06-11 18:31:10",
+    "service_id": 2,
+    "server_id": 8,
+    "metric_name": "network_out",
+    "value": 9159,
+    "unit": "count"
+  },
+  {
+    "metric_id": 283,
+    "timestamp": "2024-11-30 14:10:51",
+    "service_id": 3,
+    "server_id": 7,
+    "metric_name": "error_rate",
+    "value": 1151,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 284,
+    "timestamp": "2025-03-25 13:35:04",
+    "service_id": 6,
+    "server_id": 5,
+    "metric_name": "network_in",
+    "value": 4639,
+    "unit": "count"
+  },
+  {
+    "metric_id": 285,
+    "timestamp": "2025-05-29 02:03:05",
+    "service_id": 6,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 1497,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 286,
+    "timestamp": "2025-01-20 12:30:40",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 7684,
+    "unit": "count"
+  },
+  {
+    "metric_id": 287,
+    "timestamp": "2024-01-06 00:50:56",
+    "service_id": 4,
+    "server_id": 12,
+    "metric_name": "memory_usage",
+    "value": 28,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 288,
+    "timestamp": "2025-08-10 19:43:42",
+    "service_id": 7,
+    "server_id": 4,
+    "metric_name": "error_rate",
+    "value": 3758,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 289,
+    "timestamp": "2025-03-22 12:45:33",
+    "service_id": 3,
+    "server_id": 8,
+    "metric_name": "disk_io",
+    "value": 9985,
+    "unit": "count"
+  },
+  {
+    "metric_id": 290,
+    "timestamp": "2024-01-11 01:37:13",
+    "service_id": 7,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 9691,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 291,
+    "timestamp": "2024-12-03 07:04:53",
+    "service_id": 7,
+    "server_id": 5,
+    "metric_name": "memory_usage",
+    "value": 85,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 292,
+    "timestamp": "2025-04-05 23:39:22",
+    "service_id": 6,
+    "server_id": 1,
+    "metric_name": "network_out",
+    "value": 849,
+    "unit": "count"
+  },
+  {
+    "metric_id": 293,
+    "timestamp": "2024-12-08 08:54:22",
+    "service_id": 7,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 70,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 294,
+    "timestamp": "2025-08-15 09:25:25",
+    "service_id": 11,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 5358,
+    "unit": "count"
+  },
+  {
+    "metric_id": 295,
+    "timestamp": "2025-06-16 23:38:36",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 3325,
+    "unit": "count"
+  },
+  {
+    "metric_id": 296,
+    "timestamp": "2024-04-12 03:54:52",
+    "service_id": 10,
+    "server_id": 14,
+    "metric_name": "disk_io",
+    "value": 4778,
+    "unit": "count"
+  },
+  {
+    "metric_id": 297,
+    "timestamp": "2024-09-15 13:40:45",
+    "service_id": 9,
+    "server_id": 14,
+    "metric_name": "network_in",
+    "value": 5101,
+    "unit": "count"
+  },
+  {
+    "metric_id": 298,
+    "timestamp": "2025-07-03 17:41:51",
+    "service_id": 11,
+    "server_id": 11,
+    "metric_name": "cpu_usage",
+    "value": 12,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 299,
+    "timestamp": "2025-01-30 06:04:00",
+    "service_id": 5,
+    "server_id": 12,
+    "metric_name": "latency_p99",
+    "value": 945,
+    "unit": "count"
+  },
+  {
+    "metric_id": 300,
+    "timestamp": "2025-12-07 19:27:59",
+    "service_id": 8,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 2464,
+    "unit": "count"
+  },
+  {
+    "metric_id": 301,
+    "timestamp": "2025-02-18 03:26:03",
+    "service_id": 7,
+    "server_id": 8,
+    "metric_name": "latency_p99",
+    "value": 8120,
+    "unit": "count"
+  },
+  {
+    "metric_id": 302,
+    "timestamp": "2025-06-11 00:00:56",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "request_count",
+    "value": 5978,
+    "unit": "count"
+  },
+  {
+    "metric_id": 303,
+    "timestamp": "2024-11-19 05:50:32",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 68,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 304,
+    "timestamp": "2026-02-25 12:36:40",
+    "service_id": 9,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 8550,
+    "unit": "count"
+  },
+  {
+    "metric_id": 305,
+    "timestamp": "2026-02-14 09:14:41",
+    "service_id": 8,
+    "server_id": 14,
+    "metric_name": "network_in",
+    "value": 8180,
+    "unit": "count"
+  },
+  {
+    "metric_id": 306,
+    "timestamp": "2025-03-24 18:48:40",
+    "service_id": 12,
+    "server_id": 14,
+    "metric_name": "latency_p99",
+    "value": 4593,
+    "unit": "count"
+  },
+  {
+    "metric_id": 307,
+    "timestamp": "2025-08-12 00:09:48",
+    "service_id": 3,
+    "server_id": 8,
+    "metric_name": "error_rate",
+    "value": 3884,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 308,
+    "timestamp": "2024-12-07 00:16:25",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 1676,
+    "unit": "count"
+  },
+  {
+    "metric_id": 309,
+    "timestamp": "2024-07-02 04:49:44",
+    "service_id": 6,
+    "server_id": 14,
+    "metric_name": "error_rate",
+    "value": 8917,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 310,
+    "timestamp": "2025-01-27 11:52:12",
+    "service_id": 8,
+    "server_id": 8,
+    "metric_name": "error_rate",
+    "value": 3647,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 311,
+    "timestamp": "2024-02-04 17:41:34",
+    "service_id": 7,
+    "server_id": 9,
+    "metric_name": "request_count",
+    "value": 9485,
+    "unit": "count"
+  },
+  {
+    "metric_id": 312,
+    "timestamp": "2024-07-22 01:29:35",
+    "service_id": 5,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 8483,
+    "unit": "count"
+  },
+  {
+    "metric_id": 313,
+    "timestamp": "2024-05-29 03:49:46",
+    "service_id": 12,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 7472,
+    "unit": "count"
+  },
+  {
+    "metric_id": 314,
+    "timestamp": "2026-02-14 01:22:44",
+    "service_id": 11,
+    "server_id": 7,
+    "metric_name": "network_in",
+    "value": 7222,
+    "unit": "count"
+  },
+  {
+    "metric_id": 315,
+    "timestamp": "2024-06-05 18:54:59",
+    "service_id": 3,
+    "server_id": 13,
+    "metric_name": "network_in",
+    "value": 8641,
+    "unit": "count"
+  },
+  {
+    "metric_id": 316,
+    "timestamp": "2024-02-11 20:44:03",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "cpu_usage",
+    "value": 61,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 317,
+    "timestamp": "2024-05-28 14:25:28",
+    "service_id": 9,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 3061,
+    "unit": "count"
+  },
+  {
+    "metric_id": 318,
+    "timestamp": "2024-02-02 20:55:17",
+    "service_id": 9,
+    "server_id": 13,
+    "metric_name": "network_out",
+    "value": 1465,
+    "unit": "count"
+  },
+  {
+    "metric_id": 319,
+    "timestamp": "2025-05-16 07:21:29",
+    "service_id": 8,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 70,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 320,
+    "timestamp": "2025-03-17 17:28:19",
+    "service_id": 5,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 4585,
+    "unit": "count"
+  },
+  {
+    "metric_id": 321,
+    "timestamp": "2025-11-20 17:36:11",
+    "service_id": 11,
+    "server_id": 10,
+    "metric_name": "request_count",
+    "value": 4487,
+    "unit": "count"
+  },
+  {
+    "metric_id": 322,
+    "timestamp": "2025-04-19 09:13:08",
+    "service_id": 7,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 641,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 323,
+    "timestamp": "2024-07-14 04:26:03",
+    "service_id": 6,
+    "server_id": 2,
+    "metric_name": "cpu_usage",
+    "value": 22,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 324,
+    "timestamp": "2025-12-09 12:22:45",
+    "service_id": 12,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 25,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 325,
+    "timestamp": "2024-01-05 11:08:01",
+    "service_id": 5,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 2875,
+    "unit": "count"
+  },
+  {
+    "metric_id": 326,
+    "timestamp": "2025-04-28 21:48:09",
+    "service_id": 8,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 6673,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 327,
+    "timestamp": "2025-10-12 11:34:35",
+    "service_id": 10,
+    "server_id": 9,
+    "metric_name": "latency_p99",
+    "value": 4231,
+    "unit": "count"
+  },
+  {
+    "metric_id": 328,
+    "timestamp": "2024-04-23 05:14:33",
+    "service_id": 3,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 3461,
+    "unit": "count"
+  },
+  {
+    "metric_id": 329,
+    "timestamp": "2024-01-24 15:47:38",
+    "service_id": 12,
+    "server_id": 13,
+    "metric_name": "latency_p99",
+    "value": 7832,
+    "unit": "count"
+  },
+  {
+    "metric_id": 330,
+    "timestamp": "2025-11-03 08:58:27",
+    "service_id": 11,
+    "server_id": 8,
+    "metric_name": "network_out",
+    "value": 1491,
+    "unit": "count"
+  },
+  {
+    "metric_id": 331,
+    "timestamp": "2024-05-22 21:02:52",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "cpu_usage",
+    "value": 95,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 332,
+    "timestamp": "2026-01-17 11:28:35",
+    "service_id": 11,
+    "server_id": 3,
+    "metric_name": "request_count",
+    "value": 3682,
+    "unit": "count"
+  },
+  {
+    "metric_id": 333,
+    "timestamp": "2026-01-30 19:06:38",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "network_in",
+    "value": 4110,
+    "unit": "count"
+  },
+  {
+    "metric_id": 334,
+    "timestamp": "2025-11-08 09:34:23",
+    "service_id": 9,
+    "server_id": 15,
+    "metric_name": "network_in",
+    "value": 7090,
+    "unit": "count"
+  },
+  {
+    "metric_id": 335,
+    "timestamp": "2025-09-30 22:58:14",
+    "service_id": 7,
+    "server_id": 6,
+    "metric_name": "network_in",
+    "value": 9676,
+    "unit": "count"
+  },
+  {
+    "metric_id": 336,
+    "timestamp": "2025-12-25 16:06:26",
+    "service_id": 9,
+    "server_id": 6,
+    "metric_name": "disk_io",
+    "value": 9021,
+    "unit": "count"
+  },
+  {
+    "metric_id": 337,
+    "timestamp": "2024-05-06 08:53:11",
+    "service_id": 7,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 5205,
+    "unit": "count"
+  },
+  {
+    "metric_id": 338,
+    "timestamp": "2025-03-20 10:26:32",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 1683,
+    "unit": "count"
+  },
+  {
+    "metric_id": 339,
+    "timestamp": "2024-09-25 09:49:24",
+    "service_id": 2,
+    "server_id": 5,
+    "metric_name": "latency_p99",
+    "value": 4656,
+    "unit": "count"
+  },
+  {
+    "metric_id": 340,
+    "timestamp": "2025-08-09 22:21:26",
+    "service_id": 4,
+    "server_id": 9,
+    "metric_name": "memory_usage",
+    "value": 55,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 341,
+    "timestamp": "2025-12-19 22:21:49",
+    "service_id": 2,
+    "server_id": 1,
+    "metric_name": "cpu_usage",
+    "value": 91,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 342,
+    "timestamp": "2025-08-03 15:58:36",
+    "service_id": 1,
+    "server_id": 14,
+    "metric_name": "cpu_usage",
+    "value": 93,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 343,
+    "timestamp": "2025-06-02 21:40:52",
+    "service_id": 11,
+    "server_id": 14,
+    "metric_name": "memory_usage",
+    "value": 33,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 344,
+    "timestamp": "2024-11-27 11:30:02",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "latency_p99",
+    "value": 4863,
+    "unit": "count"
+  },
+  {
+    "metric_id": 345,
+    "timestamp": "2026-03-10 02:25:56",
+    "service_id": 5,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 4529,
+    "unit": "count"
+  },
+  {
+    "metric_id": 346,
+    "timestamp": "2024-07-14 16:33:28",
+    "service_id": 3,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 19,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 347,
+    "timestamp": "2026-03-09 15:32:31",
+    "service_id": 6,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 8684,
+    "unit": "count"
+  },
+  {
+    "metric_id": 348,
+    "timestamp": "2024-10-26 21:42:53",
+    "service_id": 3,
+    "server_id": 14,
+    "metric_name": "error_rate",
+    "value": 6464,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 349,
+    "timestamp": "2024-04-21 08:14:32",
+    "service_id": 9,
+    "server_id": 3,
+    "metric_name": "latency_p99",
+    "value": 2457,
+    "unit": "count"
+  },
+  {
+    "metric_id": 350,
+    "timestamp": "2025-07-20 10:53:28",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 64,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 351,
+    "timestamp": "2025-04-10 09:30:17",
+    "service_id": 9,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 64,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 352,
+    "timestamp": "2024-03-14 02:00:24",
+    "service_id": 6,
+    "server_id": 12,
+    "metric_name": "request_count",
+    "value": 4711,
+    "unit": "count"
+  },
+  {
+    "metric_id": 353,
+    "timestamp": "2025-08-22 13:00:02",
+    "service_id": 9,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 2813,
+    "unit": "count"
+  },
+  {
+    "metric_id": 354,
+    "timestamp": "2025-03-27 15:24:15",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 9253,
+    "unit": "count"
+  },
+  {
+    "metric_id": 355,
+    "timestamp": "2025-03-28 14:11:13",
+    "service_id": 10,
+    "server_id": 14,
+    "metric_name": "network_in",
+    "value": 1609,
+    "unit": "count"
+  },
+  {
+    "metric_id": 356,
+    "timestamp": "2026-01-20 09:11:45",
+    "service_id": 11,
+    "server_id": 5,
+    "metric_name": "network_in",
+    "value": 6343,
+    "unit": "count"
+  },
+  {
+    "metric_id": 357,
+    "timestamp": "2025-02-25 22:58:34",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "disk_io",
+    "value": 6092,
+    "unit": "count"
+  },
+  {
+    "metric_id": 358,
+    "timestamp": "2026-01-05 09:11:03",
+    "service_id": 7,
+    "server_id": 13,
+    "metric_name": "request_count",
+    "value": 7686,
+    "unit": "count"
+  },
+  {
+    "metric_id": 359,
+    "timestamp": "2026-02-13 10:06:40",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "network_out",
+    "value": 2025,
+    "unit": "count"
+  },
+  {
+    "metric_id": 360,
+    "timestamp": "2025-09-05 18:11:24",
+    "service_id": 6,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 79,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 361,
+    "timestamp": "2025-08-05 23:13:21",
+    "service_id": 5,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 7219,
+    "unit": "count"
+  },
+  {
+    "metric_id": 362,
+    "timestamp": "2025-10-15 02:10:01",
+    "service_id": 9,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 8080,
+    "unit": "count"
+  },
+  {
+    "metric_id": 363,
+    "timestamp": "2025-03-01 06:57:37",
+    "service_id": 3,
+    "server_id": 8,
+    "metric_name": "network_out",
+    "value": 1912,
+    "unit": "count"
+  },
+  {
+    "metric_id": 364,
+    "timestamp": "2025-04-23 07:18:00",
+    "service_id": 7,
+    "server_id": 6,
+    "metric_name": "network_out",
+    "value": 883,
+    "unit": "count"
+  },
+  {
+    "metric_id": 365,
+    "timestamp": "2024-09-24 21:53:51",
+    "service_id": 3,
+    "server_id": 7,
+    "metric_name": "error_rate",
+    "value": 2671,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 366,
+    "timestamp": "2024-10-04 04:26:21",
+    "service_id": 9,
+    "server_id": 2,
+    "metric_name": "request_count",
+    "value": 5012,
+    "unit": "count"
+  },
+  {
+    "metric_id": 367,
+    "timestamp": "2026-02-27 15:25:10",
+    "service_id": 4,
+    "server_id": 9,
+    "metric_name": "cpu_usage",
+    "value": 10,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 368,
+    "timestamp": "2024-11-16 18:31:33",
+    "service_id": 6,
+    "server_id": 8,
+    "metric_name": "error_rate",
+    "value": 4493,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 369,
+    "timestamp": "2026-02-23 12:57:42",
+    "service_id": 10,
+    "server_id": 8,
+    "metric_name": "network_in",
+    "value": 7782,
+    "unit": "count"
+  },
+  {
+    "metric_id": 370,
+    "timestamp": "2024-07-14 15:37:48",
+    "service_id": 10,
+    "server_id": 9,
+    "metric_name": "latency_p99",
+    "value": 6799,
+    "unit": "count"
+  },
+  {
+    "metric_id": 371,
+    "timestamp": "2024-09-13 08:38:08",
+    "service_id": 11,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 9904,
+    "unit": "count"
+  },
+  {
+    "metric_id": 372,
+    "timestamp": "2025-01-12 10:12:49",
+    "service_id": 6,
+    "server_id": 7,
+    "metric_name": "network_in",
+    "value": 2177,
+    "unit": "count"
+  },
+  {
+    "metric_id": 373,
+    "timestamp": "2024-02-01 14:47:13",
+    "service_id": 8,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 8156,
+    "unit": "count"
+  },
+  {
+    "metric_id": 374,
+    "timestamp": "2025-10-05 06:48:21",
+    "service_id": 7,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 46,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 375,
+    "timestamp": "2025-03-28 03:06:07",
+    "service_id": 10,
+    "server_id": 15,
+    "metric_name": "request_count",
+    "value": 6300,
+    "unit": "count"
+  },
+  {
+    "metric_id": 376,
+    "timestamp": "2025-10-28 05:46:08",
+    "service_id": 7,
+    "server_id": 9,
+    "metric_name": "request_count",
+    "value": 9021,
+    "unit": "count"
+  },
+  {
+    "metric_id": 377,
+    "timestamp": "2025-12-31 16:21:36",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 9837,
+    "unit": "count"
+  },
+  {
+    "metric_id": 378,
+    "timestamp": "2024-11-08 19:33:57",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "request_count",
+    "value": 1186,
+    "unit": "count"
+  },
+  {
+    "metric_id": 379,
+    "timestamp": "2025-06-27 17:22:42",
+    "service_id": 7,
+    "server_id": 7,
+    "metric_name": "error_rate",
+    "value": 2965,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 380,
+    "timestamp": "2025-02-05 19:15:42",
+    "service_id": 1,
+    "server_id": 13,
+    "metric_name": "memory_usage",
+    "value": 64,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 381,
+    "timestamp": "2025-09-06 21:03:41",
+    "service_id": 2,
+    "server_id": 12,
+    "metric_name": "latency_p99",
+    "value": 6896,
+    "unit": "count"
+  },
+  {
+    "metric_id": 382,
+    "timestamp": "2024-11-22 02:30:37",
+    "service_id": 5,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 9499,
+    "unit": "count"
+  },
+  {
+    "metric_id": 383,
+    "timestamp": "2025-03-09 06:42:50",
+    "service_id": 11,
+    "server_id": 1,
+    "metric_name": "error_rate",
+    "value": 6265,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 384,
+    "timestamp": "2025-11-12 13:11:56",
+    "service_id": 5,
+    "server_id": 9,
+    "metric_name": "disk_io",
+    "value": 7276,
+    "unit": "count"
+  },
+  {
+    "metric_id": 385,
+    "timestamp": "2025-09-18 18:57:47",
+    "service_id": 9,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 4757,
+    "unit": "count"
+  },
+  {
+    "metric_id": 386,
+    "timestamp": "2024-04-05 22:10:33",
+    "service_id": 6,
+    "server_id": 2,
+    "metric_name": "latency_p99",
+    "value": 6165,
+    "unit": "count"
+  },
+  {
+    "metric_id": 387,
+    "timestamp": "2025-09-16 05:31:44",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "request_count",
+    "value": 7908,
+    "unit": "count"
+  },
+  {
+    "metric_id": 388,
+    "timestamp": "2025-03-02 19:55:26",
+    "service_id": 1,
+    "server_id": 11,
+    "metric_name": "disk_io",
+    "value": 9848,
+    "unit": "count"
+  },
+  {
+    "metric_id": 389,
+    "timestamp": "2024-07-26 01:31:36",
+    "service_id": 2,
+    "server_id": 14,
+    "metric_name": "memory_usage",
+    "value": 54,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 390,
+    "timestamp": "2024-03-08 21:36:20",
+    "service_id": 6,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 22,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 391,
+    "timestamp": "2026-01-31 04:56:23",
+    "service_id": 3,
+    "server_id": 4,
+    "metric_name": "latency_p99",
+    "value": 1958,
+    "unit": "count"
+  },
+  {
+    "metric_id": 392,
+    "timestamp": "2025-01-17 16:07:36",
+    "service_id": 5,
+    "server_id": 2,
+    "metric_name": "network_out",
+    "value": 9840,
+    "unit": "count"
+  },
+  {
+    "metric_id": 393,
+    "timestamp": "2024-02-08 10:04:19",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "error_rate",
+    "value": 7941,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 394,
+    "timestamp": "2025-01-12 11:12:12",
+    "service_id": 12,
+    "server_id": 7,
+    "metric_name": "latency_p99",
+    "value": 267,
+    "unit": "count"
+  },
+  {
+    "metric_id": 395,
+    "timestamp": "2025-03-24 08:49:32",
+    "service_id": 12,
+    "server_id": 11,
+    "metric_name": "error_rate",
+    "value": 5955,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 396,
+    "timestamp": "2026-02-04 13:21:16",
+    "service_id": 7,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 56,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 397,
+    "timestamp": "2026-01-25 03:05:52",
+    "service_id": 2,
+    "server_id": 6,
+    "metric_name": "request_count",
+    "value": 6031,
+    "unit": "count"
+  },
+  {
+    "metric_id": 398,
+    "timestamp": "2025-11-08 10:58:49",
+    "service_id": 6,
+    "server_id": 15,
+    "metric_name": "memory_usage",
+    "value": 61,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 399,
+    "timestamp": "2025-05-30 15:23:22",
+    "service_id": 9,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 53,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 400,
+    "timestamp": "2025-08-04 01:41:36",
+    "service_id": 12,
+    "server_id": 4,
+    "metric_name": "error_rate",
+    "value": 1924,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 401,
+    "timestamp": "2025-03-16 06:40:26",
+    "service_id": 9,
+    "server_id": 3,
+    "metric_name": "memory_usage",
+    "value": 51,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 402,
+    "timestamp": "2024-01-10 05:46:19",
+    "service_id": 7,
+    "server_id": 10,
+    "metric_name": "network_in",
+    "value": 873,
+    "unit": "count"
+  },
+  {
+    "metric_id": 403,
+    "timestamp": "2024-09-08 17:35:31",
+    "service_id": 12,
+    "server_id": 11,
+    "metric_name": "cpu_usage",
+    "value": 70,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 404,
+    "timestamp": "2024-11-18 19:17:59",
+    "service_id": 12,
+    "server_id": 14,
+    "metric_name": "request_count",
+    "value": 9989,
+    "unit": "count"
+  },
+  {
+    "metric_id": 405,
+    "timestamp": "2025-09-03 14:22:15",
+    "service_id": 3,
+    "server_id": 8,
+    "metric_name": "error_rate",
+    "value": 9690,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 406,
+    "timestamp": "2024-11-01 05:08:22",
+    "service_id": 12,
+    "server_id": 1,
+    "metric_name": "memory_usage",
+    "value": 31,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 407,
+    "timestamp": "2026-03-05 14:26:11",
+    "service_id": 2,
+    "server_id": 8,
+    "metric_name": "error_rate",
+    "value": 6809,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 408,
+    "timestamp": "2024-05-16 21:30:35",
+    "service_id": 3,
+    "server_id": 4,
+    "metric_name": "network_in",
+    "value": 7030,
+    "unit": "count"
+  },
+  {
+    "metric_id": 409,
+    "timestamp": "2025-03-07 11:17:37",
+    "service_id": 2,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 541,
+    "unit": "count"
+  },
+  {
+    "metric_id": 410,
+    "timestamp": "2025-05-15 14:26:46",
+    "service_id": 12,
+    "server_id": 3,
+    "metric_name": "error_rate",
+    "value": 2444,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 411,
+    "timestamp": "2025-05-21 22:22:00",
+    "service_id": 1,
+    "server_id": 8,
+    "metric_name": "request_count",
+    "value": 4368,
+    "unit": "count"
+  },
+  {
+    "metric_id": 412,
+    "timestamp": "2025-04-07 14:59:25",
+    "service_id": 5,
+    "server_id": 13,
+    "metric_name": "disk_io",
+    "value": 6022,
+    "unit": "count"
+  },
+  {
+    "metric_id": 413,
+    "timestamp": "2025-05-13 17:50:14",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 9001,
+    "unit": "count"
+  },
+  {
+    "metric_id": 414,
+    "timestamp": "2024-11-16 02:39:29",
+    "service_id": 3,
+    "server_id": 4,
+    "metric_name": "cpu_usage",
+    "value": 88,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 415,
+    "timestamp": "2024-05-08 05:02:27",
+    "service_id": 4,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 8457,
+    "unit": "count"
+  },
+  {
+    "metric_id": 416,
+    "timestamp": "2024-01-18 22:09:16",
+    "service_id": 12,
+    "server_id": 14,
+    "metric_name": "cpu_usage",
+    "value": 10,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 417,
+    "timestamp": "2024-08-25 14:03:45",
+    "service_id": 5,
+    "server_id": 15,
+    "metric_name": "error_rate",
+    "value": 3997,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 418,
+    "timestamp": "2025-02-20 15:19:54",
+    "service_id": 3,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 6487,
+    "unit": "count"
+  },
+  {
+    "metric_id": 419,
+    "timestamp": "2026-01-21 06:04:37",
+    "service_id": 9,
+    "server_id": 1,
+    "metric_name": "latency_p99",
+    "value": 1561,
+    "unit": "count"
+  },
+  {
+    "metric_id": 420,
+    "timestamp": "2025-05-11 03:39:04",
+    "service_id": 8,
+    "server_id": 10,
+    "metric_name": "disk_io",
+    "value": 2526,
+    "unit": "count"
+  },
+  {
+    "metric_id": 421,
+    "timestamp": "2025-03-08 03:29:26",
+    "service_id": 2,
+    "server_id": 5,
+    "metric_name": "memory_usage",
+    "value": 31,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 422,
+    "timestamp": "2024-10-22 09:25:30",
+    "service_id": 7,
+    "server_id": 8,
+    "metric_name": "cpu_usage",
+    "value": 10,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 423,
+    "timestamp": "2024-01-22 16:38:12",
+    "service_id": 4,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 43,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 424,
+    "timestamp": "2025-06-05 09:35:56",
+    "service_id": 9,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 2945,
+    "unit": "count"
+  },
+  {
+    "metric_id": 425,
+    "timestamp": "2025-09-25 09:50:37",
+    "service_id": 4,
+    "server_id": 1,
+    "metric_name": "latency_p99",
+    "value": 5250,
+    "unit": "count"
+  },
+  {
+    "metric_id": 426,
+    "timestamp": "2025-04-22 06:22:31",
+    "service_id": 7,
+    "server_id": 14,
+    "metric_name": "cpu_usage",
+    "value": 41,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 427,
+    "timestamp": "2024-02-18 16:41:43",
+    "service_id": 7,
+    "server_id": 4,
+    "metric_name": "error_rate",
+    "value": 8589,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 428,
+    "timestamp": "2025-07-10 09:41:01",
+    "service_id": 1,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 1094,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 429,
+    "timestamp": "2026-02-17 00:24:59",
+    "service_id": 2,
+    "server_id": 1,
+    "metric_name": "network_out",
+    "value": 4630,
+    "unit": "count"
+  },
+  {
+    "metric_id": 430,
+    "timestamp": "2025-11-08 07:17:32",
+    "service_id": 11,
+    "server_id": 7,
+    "metric_name": "latency_p99",
+    "value": 9201,
+    "unit": "count"
+  },
+  {
+    "metric_id": 431,
+    "timestamp": "2025-03-15 19:46:24",
+    "service_id": 1,
+    "server_id": 12,
+    "metric_name": "network_out",
+    "value": 4514,
+    "unit": "count"
+  },
+  {
+    "metric_id": 432,
+    "timestamp": "2024-11-21 20:57:25",
+    "service_id": 5,
+    "server_id": 15,
+    "metric_name": "latency_p99",
+    "value": 3140,
+    "unit": "count"
+  },
+  {
+    "metric_id": 433,
+    "timestamp": "2025-05-03 17:43:03",
+    "service_id": 6,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 8604,
+    "unit": "count"
+  },
+  {
+    "metric_id": 434,
+    "timestamp": "2024-11-04 10:14:14",
+    "service_id": 10,
+    "server_id": 13,
+    "metric_name": "latency_p99",
+    "value": 9023,
+    "unit": "count"
+  },
+  {
+    "metric_id": 435,
+    "timestamp": "2024-09-01 13:26:42",
+    "service_id": 5,
+    "server_id": 11,
+    "metric_name": "network_in",
+    "value": 2472,
+    "unit": "count"
+  },
+  {
+    "metric_id": 436,
+    "timestamp": "2026-03-06 09:17:33",
+    "service_id": 12,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 5805,
+    "unit": "count"
+  },
+  {
+    "metric_id": 437,
+    "timestamp": "2024-04-13 14:21:34",
+    "service_id": 4,
+    "server_id": 6,
+    "metric_name": "cpu_usage",
+    "value": 78,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 438,
+    "timestamp": "2025-07-27 02:15:09",
+    "service_id": 11,
+    "server_id": 1,
+    "metric_name": "disk_io",
+    "value": 7242,
+    "unit": "count"
+  },
+  {
+    "metric_id": 439,
+    "timestamp": "2024-05-18 07:17:40",
+    "service_id": 5,
+    "server_id": 5,
+    "metric_name": "disk_io",
+    "value": 4507,
+    "unit": "count"
+  },
+  {
+    "metric_id": 440,
+    "timestamp": "2024-06-14 17:50:11",
+    "service_id": 5,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 2743,
+    "unit": "count"
+  },
+  {
+    "metric_id": 441,
+    "timestamp": "2024-07-17 00:20:24",
+    "service_id": 4,
+    "server_id": 7,
+    "metric_name": "disk_io",
+    "value": 8008,
+    "unit": "count"
+  },
+  {
+    "metric_id": 442,
+    "timestamp": "2024-12-25 04:55:34",
+    "service_id": 2,
+    "server_id": 10,
+    "metric_name": "disk_io",
+    "value": 769,
+    "unit": "count"
+  },
+  {
+    "metric_id": 443,
+    "timestamp": "2026-01-15 16:39:54",
+    "service_id": 11,
+    "server_id": 11,
+    "metric_name": "request_count",
+    "value": 4723,
+    "unit": "count"
+  },
+  {
+    "metric_id": 444,
+    "timestamp": "2025-03-13 05:35:03",
+    "service_id": 9,
+    "server_id": 9,
+    "metric_name": "error_rate",
+    "value": 7606,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 445,
+    "timestamp": "2024-12-16 01:57:10",
+    "service_id": 10,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 42,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 446,
+    "timestamp": "2024-02-19 17:30:38",
+    "service_id": 12,
+    "server_id": 5,
+    "metric_name": "network_out",
+    "value": 9273,
+    "unit": "count"
+  },
+  {
+    "metric_id": 447,
+    "timestamp": "2024-08-25 07:28:49",
+    "service_id": 12,
+    "server_id": 4,
+    "metric_name": "latency_p99",
+    "value": 3181,
+    "unit": "count"
+  },
+  {
+    "metric_id": 448,
+    "timestamp": "2026-02-21 07:15:51",
+    "service_id": 1,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 6659,
+    "unit": "count"
+  },
+  {
+    "metric_id": 449,
+    "timestamp": "2024-10-02 08:29:52",
+    "service_id": 12,
+    "server_id": 10,
+    "metric_name": "cpu_usage",
+    "value": 87,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 450,
+    "timestamp": "2024-01-31 22:34:39",
+    "service_id": 3,
+    "server_id": 15,
+    "metric_name": "network_in",
+    "value": 7486,
+    "unit": "count"
+  },
+  {
+    "metric_id": 451,
+    "timestamp": "2024-11-17 10:24:32",
+    "service_id": 8,
+    "server_id": 5,
+    "metric_name": "network_out",
+    "value": 6990,
+    "unit": "count"
+  },
+  {
+    "metric_id": 452,
+    "timestamp": "2024-10-17 04:35:17",
+    "service_id": 7,
+    "server_id": 15,
+    "metric_name": "network_in",
+    "value": 2850,
+    "unit": "count"
+  },
+  {
+    "metric_id": 453,
+    "timestamp": "2025-07-31 07:50:54",
+    "service_id": 4,
+    "server_id": 6,
+    "metric_name": "memory_usage",
+    "value": 34,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 454,
+    "timestamp": "2024-09-02 13:54:02",
+    "service_id": 4,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 3476,
+    "unit": "count"
+  },
+  {
+    "metric_id": 455,
+    "timestamp": "2024-06-26 00:57:48",
+    "service_id": 6,
+    "server_id": 1,
+    "metric_name": "latency_p99",
+    "value": 1747,
+    "unit": "count"
+  },
+  {
+    "metric_id": 456,
+    "timestamp": "2025-07-20 16:55:15",
+    "service_id": 2,
+    "server_id": 1,
+    "metric_name": "error_rate",
+    "value": 2562,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 457,
+    "timestamp": "2025-06-16 03:38:37",
+    "service_id": 2,
+    "server_id": 4,
+    "metric_name": "network_out",
+    "value": 2136,
+    "unit": "count"
+  },
+  {
+    "metric_id": 458,
+    "timestamp": "2025-08-02 18:09:24",
+    "service_id": 2,
+    "server_id": 12,
+    "metric_name": "disk_io",
+    "value": 311,
+    "unit": "count"
+  },
+  {
+    "metric_id": 459,
+    "timestamp": "2024-09-04 20:00:01",
+    "service_id": 11,
+    "server_id": 2,
+    "metric_name": "disk_io",
+    "value": 760,
+    "unit": "count"
+  },
+  {
+    "metric_id": 460,
+    "timestamp": "2024-09-18 03:39:44",
+    "service_id": 7,
+    "server_id": 7,
+    "metric_name": "cpu_usage",
+    "value": 20,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 461,
+    "timestamp": "2024-07-04 02:31:57",
+    "service_id": 5,
+    "server_id": 3,
+    "metric_name": "request_count",
+    "value": 605,
+    "unit": "count"
+  },
+  {
+    "metric_id": 462,
+    "timestamp": "2024-02-13 20:31:04",
+    "service_id": 9,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 75,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 463,
+    "timestamp": "2024-04-15 13:48:05",
+    "service_id": 9,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 8195,
+    "unit": "count"
+  },
+  {
+    "metric_id": 464,
+    "timestamp": "2025-09-12 15:05:50",
+    "service_id": 11,
+    "server_id": 12,
+    "metric_name": "network_in",
+    "value": 8492,
+    "unit": "count"
+  },
+  {
+    "metric_id": 465,
+    "timestamp": "2026-01-18 08:39:54",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 62,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 466,
+    "timestamp": "2024-05-31 00:55:22",
+    "service_id": 1,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 4515,
+    "unit": "count"
+  },
+  {
+    "metric_id": 467,
+    "timestamp": "2025-12-29 02:26:17",
+    "service_id": 12,
+    "server_id": 5,
+    "metric_name": "error_rate",
+    "value": 5041,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 468,
+    "timestamp": "2026-03-03 03:34:42",
+    "service_id": 11,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 83,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 469,
+    "timestamp": "2024-08-05 17:51:29",
+    "service_id": 5,
+    "server_id": 7,
+    "metric_name": "request_count",
+    "value": 6454,
+    "unit": "count"
+  },
+  {
+    "metric_id": 470,
+    "timestamp": "2024-04-28 09:47:43",
+    "service_id": 6,
+    "server_id": 3,
+    "metric_name": "network_in",
+    "value": 5904,
+    "unit": "count"
+  },
+  {
+    "metric_id": 471,
+    "timestamp": "2024-07-31 10:52:14",
+    "service_id": 4,
+    "server_id": 10,
+    "metric_name": "memory_usage",
+    "value": 76,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 472,
+    "timestamp": "2025-09-09 09:45:44",
+    "service_id": 2,
+    "server_id": 15,
+    "metric_name": "cpu_usage",
+    "value": 76,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 473,
+    "timestamp": "2024-09-19 14:54:03",
+    "service_id": 9,
+    "server_id": 3,
+    "metric_name": "cpu_usage",
+    "value": 48,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 474,
+    "timestamp": "2025-09-17 11:50:45",
+    "service_id": 12,
+    "server_id": 15,
+    "metric_name": "disk_io",
+    "value": 8623,
+    "unit": "count"
+  },
+  {
+    "metric_id": 475,
+    "timestamp": "2024-02-14 07:50:31",
+    "service_id": 2,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 7770,
+    "unit": "count"
+  },
+  {
+    "metric_id": 476,
+    "timestamp": "2025-01-05 14:54:58",
+    "service_id": 2,
+    "server_id": 6,
+    "metric_name": "latency_p99",
+    "value": 4500,
+    "unit": "count"
+  },
+  {
+    "metric_id": 477,
+    "timestamp": "2025-09-23 08:11:58",
+    "service_id": 9,
+    "server_id": 3,
+    "metric_name": "error_rate",
+    "value": 4696,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 478,
+    "timestamp": "2025-05-09 18:26:08",
+    "service_id": 6,
+    "server_id": 2,
+    "metric_name": "network_out",
+    "value": 2848,
+    "unit": "count"
+  },
+  {
+    "metric_id": 479,
+    "timestamp": "2024-04-11 22:12:44",
+    "service_id": 4,
+    "server_id": 13,
+    "metric_name": "error_rate",
+    "value": 5182,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 480,
+    "timestamp": "2025-04-25 13:10:13",
+    "service_id": 2,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 8577,
+    "unit": "count"
+  },
+  {
+    "metric_id": 481,
+    "timestamp": "2024-05-23 05:11:32",
+    "service_id": 4,
+    "server_id": 9,
+    "metric_name": "network_out",
+    "value": 8001,
+    "unit": "count"
+  },
+  {
+    "metric_id": 482,
+    "timestamp": "2024-02-29 02:09:30",
+    "service_id": 5,
+    "server_id": 13,
+    "metric_name": "request_count",
+    "value": 152,
+    "unit": "count"
+  },
+  {
+    "metric_id": 483,
+    "timestamp": "2024-07-01 09:46:32",
+    "service_id": 10,
+    "server_id": 9,
+    "metric_name": "error_rate",
+    "value": 6369,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 484,
+    "timestamp": "2024-08-14 06:16:42",
+    "service_id": 8,
+    "server_id": 12,
+    "metric_name": "cpu_usage",
+    "value": 29,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 485,
+    "timestamp": "2026-01-19 05:40:35",
+    "service_id": 1,
+    "server_id": 1,
+    "metric_name": "network_in",
+    "value": 7500,
+    "unit": "count"
+  },
+  {
+    "metric_id": 486,
+    "timestamp": "2024-07-04 12:10:47",
+    "service_id": 12,
+    "server_id": 4,
+    "metric_name": "request_count",
+    "value": 2744,
+    "unit": "count"
+  },
+  {
+    "metric_id": 487,
+    "timestamp": "2025-04-29 17:08:22",
+    "service_id": 9,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 57,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 488,
+    "timestamp": "2024-07-17 07:03:18",
+    "service_id": 3,
+    "server_id": 6,
+    "metric_name": "network_out",
+    "value": 3066,
+    "unit": "count"
+  },
+  {
+    "metric_id": 489,
+    "timestamp": "2024-08-07 15:57:37",
+    "service_id": 5,
+    "server_id": 4,
+    "metric_name": "error_rate",
+    "value": 2856,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 490,
+    "timestamp": "2024-02-27 16:42:49",
+    "service_id": 10,
+    "server_id": 4,
+    "metric_name": "network_in",
+    "value": 4475,
+    "unit": "count"
+  },
+  {
+    "metric_id": 491,
+    "timestamp": "2024-06-13 12:52:49",
+    "service_id": 5,
+    "server_id": 2,
+    "metric_name": "memory_usage",
+    "value": 13,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 492,
+    "timestamp": "2025-07-11 02:00:43",
+    "service_id": 7,
+    "server_id": 9,
+    "metric_name": "cpu_usage",
+    "value": 69,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 493,
+    "timestamp": "2024-11-02 19:13:02",
+    "service_id": 11,
+    "server_id": 11,
+    "metric_name": "memory_usage",
+    "value": 86,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 494,
+    "timestamp": "2025-07-16 19:36:15",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "error_rate",
+    "value": 784,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 495,
+    "timestamp": "2025-11-17 22:42:33",
+    "service_id": 5,
+    "server_id": 14,
+    "metric_name": "memory_usage",
+    "value": 31,
+    "unit": "percent"
+  },
+  {
+    "metric_id": 496,
+    "timestamp": "2025-10-10 21:27:27",
+    "service_id": 2,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 2337,
+    "unit": "count"
+  },
+  {
+    "metric_id": 497,
+    "timestamp": "2024-06-18 03:26:26",
+    "service_id": 1,
+    "server_id": 2,
+    "metric_name": "network_in",
+    "value": 993,
+    "unit": "count"
+  },
+  {
+    "metric_id": 498,
+    "timestamp": "2025-03-07 18:48:30",
+    "service_id": 10,
+    "server_id": 3,
+    "metric_name": "disk_io",
+    "value": 4990,
+    "unit": "count"
+  },
+  {
+    "metric_id": 499,
+    "timestamp": "2024-05-15 13:12:15",
+    "service_id": 8,
+    "server_id": 3,
+    "metric_name": "network_out",
+    "value": 4375,
+    "unit": "count"
+  },
+  {
+    "metric_id": 500,
+    "timestamp": "2025-12-17 21:18:29",
+    "service_id": 11,
+    "server_id": 5,
+    "metric_name": "request_count",
+    "value": 8846,
+    "unit": "count"
+  }
+]
